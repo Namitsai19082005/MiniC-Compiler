@@ -1,0 +1,25 @@
+# Build artifacts
+build/
+cmake-build-*/
+*.o
+*.s
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+compile_commands.json
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+wsl_build/
