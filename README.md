@@ -335,5 +335,3 @@ factorial:
 - **pytest** — test harness (100+ test cases)
 - **Valgrind** — memory leak detection
 
-## License
-MIT
